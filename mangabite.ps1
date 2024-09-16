@@ -1,0 +1,2 @@
+python ./download.py https://en.leviatanscans.com/tkl/manga/medical-return/ --start-from https://en.leviatanscans.com/tkl/manga/medical-return/chapter-10/
+python ./download.py https://asura.gg/manga/genius-of-the-unique-lineage/
